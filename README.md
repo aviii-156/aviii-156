@@ -1,5 +1,8 @@
 # 💫 About Me:
-🚀 Aspiring Software Developer | 💻 C, C++, Python, SQL | 🌐 Web Developer | 🎓 3rd Year CSE Student
+Aspiring Software Developer 🚀
+3rd Year CSE Student 🎓
+Skilled in C, C++, Python, SQL and Web Development 🌐
+Passionate about problem-solving, building real-world projects, and continuous learning.
 
 
 ## 🌐 Socials:
